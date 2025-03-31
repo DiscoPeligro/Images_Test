@@ -2,7 +2,7 @@
   "Major": [
     {
       "name": "The Fool",
-      "image": "https://i.ibb.co/vC6nFDBR/0-The-Fool.png",
+      "image": "https://i.ibb.co/GfG48gtw/0-The-Fool.jpg",
       "represents": {
         "planet": "Uranus",
         "zodiac": "",
@@ -21,7 +21,7 @@
     },
     {
       "name": "The Magician",
-      "image": "https://i.ibb.co/vxsgxRRn/The-Magician.png",
+      "image": "https://i.ibb.co/NgKC0KtY/1-The-Magician.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "",
@@ -40,7 +40,7 @@
     },
     {
       "name": "The High Priestess",
-      "image": "https://i.ibb.co/YB0CzTxb/2-High-Priestess.png",
+      "image": "https://i.ibb.co/39nMB1MY/2-High-Priestess.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "",
@@ -59,7 +59,7 @@
     },
     {
       "name": "The Empress",
-      "image": "https://i.ibb.co/C5d9jJMp/3-The-Empress.png",
+      "image": "https://i.ibb.co/sdr0wrC9/3-The-Empress.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "",
@@ -78,7 +78,7 @@
     },
     {
       "name": "The Emperor",
-      "image": "https://i.ibb.co/hFsn2TXz/4-The-Emperor.png",
+      "image": "https://i.ibb.co/xSK0G8Tz/4-The-Emperor.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries",
@@ -97,7 +97,7 @@
     },
     {
       "name": "The Hierophant",
-      "image": "https://i.ibb.co/TD4RmNW4/5-The-Hierophant.png",
+      "image": "https://i.ibb.co/JRW10yVx/5-The-Hierophant.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Taurus",
@@ -116,7 +116,7 @@
     },
     {
       "name": "The Lovers",
-      "image": "https://i.ibb.co/dJJmzF5Z/6-The-Lovers.png",
+      "image": "https://i.ibb.co/VpHZ5grS/6-The-Lovers.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Gemini",
@@ -135,7 +135,7 @@
     },
     {
       "name": "The Chariot",
-      "image": "https://i.ibb.co/YTVfjzKs/7-The-Chariot.png",
+      "image": "https://i.ibb.co/4bvn0rH/7-The-Chariot.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Strength",
-      "image": "https://i.ibb.co/8nbL8mQr/8-Strength.png",
+      "image": "https://i.ibb.co/7NtbCHvQ/8-Strength.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Leo",
@@ -173,7 +173,7 @@
     },
     {
       "name": "The Hermit",
-      "image": "https://i.ibb.co/DfxhKTSn/9-The-Hermit.png",
+      "image": "https://i.ibb.co/4gs6VhxR/9-The-Hermit.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Virgo",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Wheel of Fortune",
-      "image": "https://i.ibb.co/kgb9DkBG/10-Wheel-of-Fortune.png",
+      "image": "https://i.ibb.co/chhTbjRM/10-Wheel-of-Fortune.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "",
