@@ -211,7 +211,7 @@
     },
     {
       "name": "Justice",
-      "image": "https://i.ibb.co/wF5NFdbY/Justice.png",
+      "image": "https://i.ibb.co/YFqKdZNJ/11-Justice.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra",
@@ -230,7 +230,7 @@
     },
     {
       "name": "The Hanged Man",
-      "image": "https://i.ibb.co/ch4vNJSJ/Hanged-Man.png",
+      "image": "https://i.ibb.co/0Vd9k2tC/12-The-Hanged-Man.jpg",
       "represents": {
         "planet": "Neptune",
         "zodiac": "",
@@ -249,7 +249,7 @@
     },
     {
       "name": "Death",
-      "image": "https://i.ibb.co/zTmCgnnL/Death.png",
+      "image": "https://i.ibb.co/9kgRZcYC/13-Death.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Scorpio",
@@ -268,7 +268,7 @@
     },
     {
       "name": "Temperance",
-      "image": "https://i.ibb.co/Xf4zd47P/Temperance.png",
+      "image": "https://i.ibb.co/NdrY8TQH/14-Temperance.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Sagittarius",
@@ -287,7 +287,7 @@
     },
     {
       "name": "The Devil",
-      "image": "https://i.ibb.co/XrSKQR4G/The-Devil.png",
+      "image": "https://i.ibb.co/fYGQQXXg/15-The-Devil.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn",
@@ -306,7 +306,7 @@
     },
     {
       "name": "The Tower",
-      "image": "https://i.ibb.co/8DPdC7ZZ/The-Tower.png",
+      "image": "https://i.ibb.co/5Wwrg6tZ/16-The-Tower.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "",
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Star",
-      "image": "https://i.ibb.co/NgMNNChv/The-Star.png",
+      "image": "https://i.ibb.co/kVMkhnpT/17-The-Star.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aquarius",
@@ -344,7 +344,7 @@
     },
     {
       "name": "The Moon",
-      "image": "https://i.ibb.co/FkcJSYpN/The-Moon.png",
+      "image": "https://i.ibb.co/HpgJw3fC/18-The-Moon.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Pisces",
@@ -363,7 +363,7 @@
     },
     {
       "name": "The Sun",
-      "image": "https://i.ibb.co/0pmZwBh6/The-Sun.png",
+      "image": "https://i.ibb.co/svvttc0t/19-The-Sun.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "",
@@ -382,7 +382,7 @@
     },
     {
       "name": "Judgement",
-      "image": "https://i.ibb.co/0RkQsgVR/Judgement.png",
+      "image": "https://i.ibb.co/KchsQdbV/20-Judgement.jpg",
       "represents": {
         "planet": "Pluto",
         "zodiac": "",
@@ -401,7 +401,7 @@
     },
     {
       "name": "The World",
-      "image": "https://i.ibb.co/KpLNHyhS/the-world.png",
+      "image": "https://i.ibb.co/B5vghRKH/21-The-World.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "",
