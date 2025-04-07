@@ -2,7 +2,7 @@
   "Major": [
     {
       "name": "The Fool",
-      "image": "https://i.ibb.co/GfG48gtw/0-The-Fool.jpg",
+      "image": "https://i.ibb.co/PzTd6fDS/Layer-1.jpg",
       "represents": {
         "planet": "Uranus",
         "zodiac": "",
@@ -21,7 +21,7 @@
     },
     {
       "name": "The Magician",
-      "image": "https://i.ibb.co/NgKC0KtY/1-The-Magician.jpg",
+      "image": "https://i.ibb.co/JwjhXR2b/Layer-2.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "",
@@ -40,7 +40,7 @@
     },
     {
       "name": "The High Priestess",
-      "image": "https://i.ibb.co/39nMB1MY/2-High-Priestess.jpg",
+      "image": "https://i.ibb.co/cSrfng82/Layer-3.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "",
@@ -59,7 +59,7 @@
     },
     {
       "name": "The Empress",
-      "image": "https://i.ibb.co/sdr0wrC9/3-The-Empress.jpg",
+      "image": "https://i.ibb.co/397NCKZZ/Layer-4.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "",
@@ -78,7 +78,7 @@
     },
     {
       "name": "The Emperor",
-      "image": "https://i.ibb.co/xSK0G8Tz/4-The-Emperor.jpg",
+      "image": "https://i.ibb.co/bgM41rNV/Layer-5.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries",
@@ -97,7 +97,7 @@
     },
     {
       "name": "The Hierophant",
-      "image": "https://i.ibb.co/JRW10yVx/5-The-Hierophant.jpg",
+      "image": "https://i.ibb.co/NgGQmjB0/Layer-6.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Taurus",
@@ -116,7 +116,7 @@
     },
     {
       "name": "The Lovers",
-      "image": "https://i.ibb.co/VpHZ5grS/6-The-Lovers.jpg",
+      "image": "https://i.ibb.co/DPXQfxxf/Layer-7.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Gemini",
@@ -135,7 +135,7 @@
     },
     {
       "name": "The Chariot",
-      "image": "https://i.ibb.co/4bvn0rH/7-The-Chariot.jpg",
+      "image": "https://i.ibb.co/1Gc3pVhW/Layer-8.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Strength",
-      "image": "https://i.ibb.co/7NtbCHvQ/8-Strength.jpg",
+      "image": "https://i.ibb.co/rK1Hvyrs/Layer-9.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Leo",
@@ -173,7 +173,7 @@
     },
     {
       "name": "The Hermit",
-      "image": "https://i.ibb.co/4gs6VhxR/9-The-Hermit.jpg",
+      "image": "https://i.ibb.co/fz8CHsLT/Layer-10.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Virgo",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Wheel of Fortune",
-      "image": "https://i.ibb.co/chhTbjRM/10-Wheel-of-Fortune.jpg",
+      "image": "https://i.ibb.co/CKKvgWnj/Layer-11.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "",
@@ -211,7 +211,7 @@
     },
     {
       "name": "Justice",
-      "image": "https://i.ibb.co/YFqKdZNJ/11-Justice.jpg",
+      "image": "https://i.ibb.co/vvDNJPMc/Layer-12.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra",
@@ -230,7 +230,7 @@
     },
     {
       "name": "The Hanged Man",
-      "image": "https://i.ibb.co/0Vd9k2tC/12-The-Hanged-Man.jpg",
+      "image": "https://i.ibb.co/dsQBJkRw/Layer-13.jpg",
       "represents": {
         "planet": "Neptune",
         "zodiac": "",
@@ -249,7 +249,7 @@
     },
     {
       "name": "Death",
-      "image": "https://i.ibb.co/9kgRZcYC/13-Death.jpg",
+      "image": "https://i.ibb.co/6cqJF0R5/Layer-14.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Scorpio",
@@ -268,7 +268,7 @@
     },
     {
       "name": "Temperance",
-      "image": "https://i.ibb.co/NdrY8TQH/14-Temperance.jpg",
+      "image": "https://i.ibb.co/sny5jyn/Layer-15.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Sagittarius",
@@ -287,7 +287,7 @@
     },
     {
       "name": "The Devil",
-      "image": "https://i.ibb.co/fYGQQXXg/15-The-Devil.jpg",
+      "image": "https://i.ibb.co/V0Hs3cgP/Layer-16.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn",
@@ -306,7 +306,7 @@
     },
     {
       "name": "The Tower",
-      "image": "https://i.ibb.co/5Wwrg6tZ/16-The-Tower.jpg",
+      "image": "https://i.ibb.co/twLMGtR6/Layer-17.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "",
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Star",
-      "image": "https://i.ibb.co/kVMkhnpT/17-The-Star.jpg",
+      "image": "https://i.ibb.co/rKRqFzbW/Layer-18.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aquarius",
@@ -344,7 +344,7 @@
     },
     {
       "name": "The Moon",
-      "image": "https://i.ibb.co/HpgJw3fC/18-The-Moon.jpg",
+      "image": "https://i.ibb.co/XZM7ZF9c/Layer-19.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Pisces",
@@ -363,7 +363,7 @@
     },
     {
       "name": "The Sun",
-      "image": "https://i.ibb.co/svvttc0t/19-The-Sun.jpg",
+      "image": "https://i.ibb.co/Zz5cWr3D/Layer-20.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "",
@@ -382,7 +382,7 @@
     },
     {
       "name": "Judgement",
-      "image": "https://i.ibb.co/KchsQdbV/20-Judgement.jpg",
+      "image": "https://i.ibb.co/NnnzwRNw/Layer-21.jpg",
       "represents": {
         "planet": "Pluto",
         "zodiac": "",
@@ -401,7 +401,7 @@
     },
     {
       "name": "The World",
-      "image": "https://i.ibb.co/B5vghRKH/21-The-World.jpg",
+      "image": "https://i.ibb.co/VW91Lzm8/Layer-22.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "",
@@ -416,6 +416,44 @@
         "yesno": "No",
         "tags": "Incomplete tasks, delays, lack of closure, unfinished, disruption, postponement, fragmentation, disintegration",
         "description": "The World indicates unfinished business or delays in reaching your full potential."
+      }
+    },
+    {
+      "name": "The Well",
+      "image": "https://i.ibb.co/C3VDjWdr/Layer-23.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Artist",
+      "image": "https://i.ibb.co/wZKMjXKK/Layer-24.jpg",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
       }
     }
   ],
