@@ -460,7 +460,7 @@
   "Minor": [
     {
       "name": "Ace of Swords",
-      "image": "https://i.ibb.co/qLDGyYNk/Swords-1.png",
+      "image": "https://i.ibb.co/3yNgqXVk/Layer-39.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -479,7 +479,7 @@
     },
     {
       "name": "Two of Swords",
-      "image": "https://i.ibb.co/3Ys7vCZW/Swords-2.png",
+      "image": "https://i.ibb.co/ksqr90zH/Layer-40.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "Libra",
@@ -498,7 +498,7 @@
     },
     {
       "name": "Three of Swords",
-      "image": "https://i.ibb.co/jvSDRh4m/Swords-3.png",
+      "image": "https://i.ibb.co/mF4sPm0W/Layer-41.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Libra",
@@ -517,7 +517,7 @@
     },
     {
       "name": "Four of Swords",
-      "image": "https://i.ibb.co/RksDQ1Bn/Swords-4.png",
+      "image": "https://i.ibb.co/zhpX1KNX/Layer-42.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Libra",
@@ -536,7 +536,7 @@
     },
     {
       "name": "Five of Swords",
-      "image": "https://i.ibb.co/ZpHf5g55/Swords-5.png",
+      "image": "https://i.ibb.co/6RB7DdF6/Layer-43.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "Aquarius",
@@ -555,7 +555,7 @@
     },
     {
       "name": "Six of Swords",
-      "image": "https://i.ibb.co/LBxPvh9/Swords-6.png",
+      "image": "https://i.ibb.co/5gv9wmFR/Layer-44.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Aquarius",
@@ -574,7 +574,7 @@
     },
     {
       "name": "Seven of Swords",
-      "image": "https://i.ibb.co/JFsJvbnf/Swords-7.png",
+      "image": "https://i.ibb.co/gN4yK3h/Layer-45.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "Aquarius",
@@ -593,7 +593,7 @@
     },
     {
       "name": "Eight of Swords",
-      "image": "https://i.ibb.co/CKwgvJy6/Swords-8.png",
+      "image": "https://i.ibb.co/k2tfN08h/Layer-46.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Gemini",
@@ -612,7 +612,7 @@
     },
     {
       "name": "Nine of Swords",
-      "image": "https://i.ibb.co/JWqd3pzs/Swords-9.png",
+      "image": "https://i.ibb.co/3YmFbzKB/Layer-47.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "Gemini",
@@ -631,7 +631,7 @@
     },
     {
       "name": "Ten of Swords",
-      "image": "https://i.ibb.co/fKKHvHB/Swords-10.png",
+      "image": "https://i.ibb.co/BDkDY1F/Layer-48.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "Gemini",
@@ -650,7 +650,7 @@
     },
     {
       "name": "Page of Swords",
-      "image": "https://i.ibb.co/MDrZsnxC/Page-of-Swords.png",
+      "image": "https://i.ibb.co/JRXxkQxP/Layer-49.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn, Pisces",
@@ -669,7 +669,7 @@
     },
     {
       "name": "Knight of Swords",
-      "image": "https://i.ibb.co/TdSpY9Z/Knight-of-Swords.png",
+      "image": "https://i.ibb.co/MxgyJ240/Layer-50.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Gemini, Taurus",
@@ -688,7 +688,7 @@
     },
     {
       "name": "Queen of Swords",
-      "image": "https://i.ibb.co/5hSJ3wbQ/Queen-of-Swords.png",
+      "image": "https://i.ibb.co/W4w2FJ1j/Layer-51.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra, Virgo",
@@ -707,7 +707,7 @@
     },
     {
       "name": "King of Swords",
-      "image": "https://i.ibb.co/BKZdPRM1/King-of-Swords.png",
+      "image": "https://i.ibb.co/bjyQ4Q7Y/Layer-52.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aquarius, Capricorn",
@@ -726,7 +726,7 @@
     },
     {
       "name": "Ace of Cups",
-      "image": "https://i.ibb.co/hRmJcK1S/Cups-1.png",
+      "image": "https://i.ibb.co/4nCHY2MK/Layer-67.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -745,7 +745,7 @@
     },
     {
       "name": "Two of Cups",
-      "image": "https://i.ibb.co/prWHHzgk/Cups-2.png",
+      "image": "https://i.ibb.co/MyznHrCv/Layer-68.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "Cancer",
@@ -764,7 +764,7 @@
     },
     {
       "name": "Three of Cups",
-      "image": "https://i.ibb.co/TMrs1XRr/Cups-3.png",
+      "image": "https://i.ibb.co/GQt03jB0/Layer-69.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Cancer",
@@ -783,7 +783,7 @@
     },
     {
       "name": "Four of Cups",
-      "image": "https://i.ibb.co/20CmFC7z/Cups-4.png",
+      "image": "https://i.ibb.co/cXpqkZ7L/Layer-70.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "Cancer",
@@ -802,7 +802,7 @@
     },
     {
       "name": "Five of Cups",
-      "image": "https://i.ibb.co/fYxxVX5G/Cups-5.png",
+      "image": "https://i.ibb.co/fz34mGs4/Layer-71.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "Scorpio",
@@ -821,7 +821,7 @@
     },
     {
       "name": "Six of Cups",
-      "image": "https://i.ibb.co/5W61k3Bb/Cups-6.png",
+      "image": "https://i.ibb.co/DnTtqNT/Layer-72.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "Scorpio",
@@ -840,7 +840,7 @@
     },
     {
       "name": "Seven of Cups",
-      "image": "https://i.ibb.co/wNdhvjZM/Cups-7.png",
+      "image": "https://i.ibb.co/Dgw8BhDz/Layer-73.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "Scorpio",
@@ -859,7 +859,7 @@
     },
     {
       "name": "Eight of Cups",
-      "image": "https://i.ibb.co/gZRdt1dX/Cups-8.png",
+      "image": "https://i.ibb.co/cPxcTkY/Layer-74.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Pisces",
@@ -878,7 +878,7 @@
     },
     {
       "name": "Nine of Cups",
-      "image": "https://i.ibb.co/Z69rBmx6/Cups-9.png",
+      "image": "https://i.ibb.co/chggVfkn/Layer-75.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Pisces",
@@ -897,7 +897,7 @@
     },
     {
       "name": "Ten of Cups",
-      "image": "https://i.ibb.co/hxz3PftK/Cups-10.png",
+      "image": "https://i.ibb.co/VppzPg7x/Layer-76.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "Pisces",
@@ -916,7 +916,7 @@
     },
     {
       "name": "Page of Cups",
-      "image": "https://i.ibb.co/8L72Kh02/Page-of-Cups.png",
+      "image": "https://i.ibb.co/0j6rNJKw/Layer-77.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Libra, Sagittarius",
@@ -935,7 +935,7 @@
     },
     {
       "name": "Knight of Cups",
-      "image": "https://i.ibb.co/nNCs88Tm/Knight-of-Cups.png",
+      "image": "https://i.ibb.co/Cp6dN63q/Layer-78.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Pisces, Aquarius",
@@ -954,7 +954,7 @@
     },
     {
       "name": "Queen of Cups",
-      "image": "https://i.ibb.co/397gvvhL/Queen-of-Cups.png",
+      "image": "https://i.ibb.co/V0gYfb9k/Layer-79.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Cancer, Gemini",
@@ -973,7 +973,7 @@
     },
     {
       "name": "King of Cups",
-      "image": "https://i.ibb.co/4nGbhrWF/King-of-Cups.png",
+      "image": "https://i.ibb.co/V5h8h3J/Layer-80.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Scorpio, Libra",
@@ -1258,7 +1258,7 @@
     },
     {
       "name": "Ace of Pentacles",
-      "image": "https://i.ibb.co/XxHf3mWt/Pentacles-1.png",
+      "image": "https://i.ibb.co/8nGsL442/Layer-53.jpg",
       "represents": {
         "planet": "",
         "zodiac": "",
@@ -1277,7 +1277,7 @@
     },
     {
       "name": "Two of Pentacles",
-      "image": "https://i.ibb.co/wFbZzVN0/Pentacles-2.png",
+      "image": "https://i.ibb.co/3mkkjjfz/Layer-54.jpg",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Capricorn",
@@ -1296,7 +1296,7 @@
     },
     {
       "name": "Three of Pentacles",
-      "image": "https://i.ibb.co/yBxH4rST/Pentacles-3.png",
+      "image": "https://i.ibb.co/7NCPVmrw/Layer-55.jpg",
       "represents": {
         "planet": "Mars",
         "zodiac": "Capricorn",
@@ -1315,7 +1315,7 @@
     },
     {
       "name": "Four of Pentacles",
-      "image": "https://i.ibb.co/hxd4bF2V/Pentacles-4.png",
+      "image": "https://i.ibb.co/4Rw9PvL4/Layer-56.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "Capricorn",
@@ -1334,7 +1334,7 @@
     },
     {
       "name": "Five of Pentacles",
-      "image": "https://i.ibb.co/TD8G2pXP/Pentacles-5.png",
+      "image": "https://i.ibb.co/hqPKwf0/Layer-57.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Taurus",
@@ -1353,7 +1353,7 @@
     },
     {
       "name": "Six of Pentacles",
-      "image": "https://i.ibb.co/gLKkvD7j/Pentacles-6.png",
+      "image": "https://i.ibb.co/m5vcJ8vZ/Layer-58.jpg",
       "represents": {
         "planet": "Moon",
         "zodiac": "Taurus",
@@ -1372,7 +1372,7 @@
     },
     {
       "name": "Seven of Pentacles",
-      "image": "https://i.ibb.co/ymnPxhCG/Pentacles-7.png",
+      "image": "https://i.ibb.co/TDFHMMFr/Layer-59.jpg",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Taurus",
@@ -1391,7 +1391,7 @@
     },
     {
       "name": "Eight of Pentacles",
-      "image": "https://i.ibb.co/1fnsnLyS/Pentacles-8.png",
+      "image": "https://i.ibb.co/gLpMdPQq/Layer-60.jpg",
       "represents": {
         "planet": "Sun",
         "zodiac": "Virgo",
@@ -1410,7 +1410,7 @@
     },
     {
       "name": "Nine of Pentacles",
-      "image": "https://i.ibb.co/XkCKRrgq/Pentacles-9.png",
+      "image": "https://i.ibb.co/0jCLWQgn/Layer-61.jpg",
       "represents": {
         "planet": "Venus",
         "zodiac": "Virgo",
@@ -1429,7 +1429,7 @@
     },
     {
       "name": "Ten of Pentacles",
-      "image": "https://i.ibb.co/jvBt6zQp/Pentacles-10.png",
+      "image": "https://i.ibb.co/4g89R3pw/Layer-62.jpg",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Virgo",
@@ -1448,7 +1448,7 @@
     },
     {
       "name": "Page of Pentacles",
-      "image": "https://i.ibb.co/XxqtBkTQ/Page-of-Pentacles.png",
+      "image": "https://i.ibb.co/xKHbkSZr/Layer-63.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Aries, Gemini",
@@ -1467,7 +1467,7 @@
     },
     {
       "name": "Knight of Pentacles",
-      "image": "https://i.ibb.co/wZbkS76W/Knight-of-Pentacles.png",
+      "image": "https://i.ibb.co/4g3LVD9Q/Layer-64.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Virgo, Leo",
@@ -1486,7 +1486,7 @@
     },
     {
       "name": "Queen of Pentacles",
-      "image": "https://i.ibb.co/xS7d6ykv/Queen-of-Pentacles.png",
+      "image": "https://i.ibb.co/gFHZ2b2d/Layer-65.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Capricorn, Sagittarius",
@@ -1505,7 +1505,7 @@
     },
     {
       "name": "King of Pentacles",
-      "image": "https://i.ibb.co/KxYYLqD5/King-of-Pentacles.png",
+      "image": "https://i.ibb.co/m52YfstK/Layer-66.jpg",
       "represents": {
         "planet": "",
         "zodiac": "Taurus, Aries",
